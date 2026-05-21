@@ -1,6 +1,7 @@
 # 🛸Unmanned Aerial Vehicles (UAVs) Swarm and Simulation System🛩️
 
 A high-performance, lightweight 3D simulation environment and control dashboard for synchronized multi-drone swarms. This project bypasses the need for expensive physical hardware by building a pure-software virtual sandbox designed for testing distributed robotics, autonomous fleet coordination, and complex spatial drone light shows.
+---
 
 > 🚧 **Work in Progress (WIP)**: This project is under active development. The core simulation layer and async communication loop are being iteratively updated. Contributions, feedback, and architectural discussions are welcome!
 
