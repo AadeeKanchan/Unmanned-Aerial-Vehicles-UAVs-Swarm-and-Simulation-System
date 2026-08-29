@@ -56,7 +56,7 @@ The project is built around a decoupled, three-tier architecture running complet
 
 ##   Development Roadmap
 
-### Phase 1: The Core Visual Sandbox (Current Focus) 
+### Phase 1: The Core Visual Sandbox 
 *  Set up the Ursina 3D dark sky and grid coordinates layout.
 *  Program basic 3D entity spawning for multiple virtual drone nodes.
 *  Integrate camera movement mechanics (`EditorCamera`) for flexible viewports.
