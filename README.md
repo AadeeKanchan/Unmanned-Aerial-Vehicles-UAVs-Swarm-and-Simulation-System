@@ -299,6 +299,4 @@ All 28 tests pass across unit and integration suites.
 
 ---
 
-## 📄 License
 
-MIT License. Designed and developed for lightweight, high-performance UAV swarm simulation and research.
